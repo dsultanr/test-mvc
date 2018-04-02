@@ -1,0 +1,1000 @@
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+31.132.180.243||-
+31.132.180.243||-
+95.24.90.35||-
+54.36.148.164|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+66.249.76.62||Googlebot-Image/1.0
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+95.82.218.215|Windows NT 6.1; WOW64|Chrome/64.0.3282.186 Safari/537.36 OPR/51.0.2830.55
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.62|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+185.6.127.39||-
+185.6.127.39||-
+185.6.127.39||-
+185.6.127.39||-
+185.6.127.39||-
+66.249.76.157||Googlebot-Image/1.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+109.254.251.7|Windows NT 5.1|Chrome/49.0.2623.112 Safari/537.36 OPR/36.0.2130.80
+66.249.76.157||Googlebot-Image/1.0
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.157||Googlebot-Image/1.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+66.249.76.62||Googlebot-Image/1.0
+128.75.46.139|Windows NT 10.0; WOW64|Chrome/55.0.2883.95 YaBrowser/17.1.0.2034 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+217.118.95.101|Linux; Android 5.0; E2333 Build/26.1.B.3.109|Chrome/65.0.3325.109 Mobile Safari/537.36
+66.249.76.62|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+217.118.95.101|Linux; Android 5.0; E2333 Build/26.1.B.3.109|Chrome/65.0.3325.109 Mobile Safari/537.36
+217.118.95.101|Linux; Android 5.0; E2333 Build/26.1.B.3.109|Chrome/65.0.3325.109 Mobile Safari/537.36
+66.249.76.157||Googlebot-Image/1.0
+217.118.95.101|Linux; Android 5.0; E2333 Build/26.1.B.3.109|Chrome/65.0.3325.109 Mobile Safari/537.36
+217.118.95.101|Linux; Android 5.0; E2333 Build/26.1.B.3.109|Chrome/65.0.3325.109 Mobile Safari/537.36
+217.118.95.101|Linux; Android 5.0; E2333 Build/26.1.B.3.109|Chrome/65.0.3325.109 Mobile Safari/537.36
+54.36.148.75|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+217.118.95.101|Linux; Android 5.0; E2333 Build/26.1.B.3.109|Chrome/65.0.3325.109 Mobile Safari/537.36
+217.118.95.101|Linux; Android 5.0; E2333 Build/26.1.B.3.109|Chrome/65.0.3325.109 Mobile Safari/537.36
+217.118.95.101|Linux; Android 5.0; E2333 Build/26.1.B.3.109|Chrome/65.0.3325.109 Mobile Safari/537.36
+217.118.95.101|Linux; Android 5.0; E2333 Build/26.1.B.3.109|Chrome/65.0.3325.109 Mobile Safari/537.36
+207.46.13.67|compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm|Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+217.118.95.101|Linux; Android 5.0; E2333 Build/26.1.B.3.109|Chrome/65.0.3325.109 Mobile Safari/537.36
+176.121.14.169|iPad; CPU OS 6_0 like Mac OS X|Version/6.0 Mobile/10A5355d Safari/8536.25
+217.118.95.101|Linux; Android 5.0; E2333 Build/26.1.B.3.109|Chrome/65.0.3325.109 Mobile Safari/537.36
+217.118.95.101|Linux; Android 5.0; E2333 Build/26.1.B.3.109|Chrome/65.0.3325.109 Mobile Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+66.249.76.157||Googlebot-Image/1.0
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+66.249.76.157||Googlebot-Image/1.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.157||Googlebot-Image/1.0
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+66.249.76.62||Googlebot-Image/1.0
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+178.219.186.214|Windows NT 6.1; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+66.249.76.62|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+178.219.186.214|Windows NT 6.1; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+178.219.186.214|Windows NT 6.1; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+178.219.186.214|Windows NT 6.1; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+178.219.186.214|Windows NT 6.1; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+178.219.186.214|Windows NT 6.1; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+178.219.186.214|Windows NT 6.1; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+178.219.186.214|Windows NT 6.1; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+178.219.186.214|Windows NT 6.1; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+66.249.76.62|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+178.219.186.214|Windows NT 6.1; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+66.249.76.62||Googlebot-Image/1.0
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+66.249.76.62||Googlebot-Image/1.0
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+141.8.132.34|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+46.229.168.66|compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html|Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.62||Googlebot-Image/1.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+66.249.76.157||Googlebot-Image/1.0
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.62|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+157.55.39.218|compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm|Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+66.249.76.157||Googlebot-Image/1.0
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+178.219.186.214||-
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+66.249.76.157||Googlebot-Image/1.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+5.137.181.99|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+46.229.168.79|compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html|Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)
+54.36.149.69|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+66.249.76.157||Googlebot-Image/1.0
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+5.137.181.99||-
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+141.8.132.34|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+66.249.76.157||Googlebot-Image/1.0
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+66.249.76.157|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+213.87.146.226||-
+213.87.146.226||-
+213.87.146.226||-
+213.87.146.226||-
+94.25.168.125|Windows NT 6.1|Chrome/65.0.3325.181 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+95.163.98.150||onlinetur-mobile
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+37.44.84.230|Linux armv7l; Maemo; Opera Mobi/4; U; fr; rv:1.9.1.6|Gecko/20091201 Firefox/3.5.6 Opera 10.1
+66.249.76.157||Googlebot-Image/1.0
+95.52.212.125|Windows NT 6.1; WOW64|Chrome/62.0.3202.94 YaBrowser/17.11.1.990 Yowser/2.5 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+54.36.148.40|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+66.249.76.62||Googlebot-Image/1.0
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+66.249.76.62||Googlebot-Image/1.0
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+54.36.148.59|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+207.46.13.67|compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm|Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+31.132.180.243|Windows NT 6.2; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+66.249.76.159||Googlebot-Image/1.0
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+54.36.148.79|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.159||Googlebot-Image/1.0
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+66.249.76.159|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+141.8.142.196|compatible; YandexVideoParser/1.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexVideoParser/1.0; +http://yandex.com/bots)
+95.163.98.150||onlinetur-mobile
+141.8.183.19|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+66.249.76.63||Googlebot-Image/1.0
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+176.121.14.167|iPad; CPU OS 6_0 like Mac OS X|Version/6.0 Mobile/10A5355d Safari/8536.25
+176.121.14.167|iPad; CPU OS 6_0 like Mac OS X|Version/6.0 Mobile/10A5355d Safari/8536.25
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+141.8.132.34|compatible; YandexVideoParser/1.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexVideoParser/1.0; +http://yandex.com/bots)
+141.8.142.196|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.62||Googlebot-Image/1.0
+84.160.247.204|Linux; Android 6.0.1; SAMSUNG SM-G901F/XXU1CQJ1 Build/MMB29M|SamsungBrowser/6.4 Chrome/56.0.2924.87 Mobile Safari/537.36
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+83.219.136.5|Windows NT 6.3; WOW64; Trident/7.0; rv:11.0|like Gecko
+95.163.98.150||onlinetur-mobile
+37.9.113.153|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+66.249.76.63||Googlebot-Image/1.0
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+87.250.224.33|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+66.249.76.62||Googlebot-Image/1.0
+95.163.98.150||onlinetur-mobile
+37.9.113.153|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+66.249.76.62|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+66.249.76.62||Googlebot-Image/1.0
+141.8.142.196|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+141.8.142.196|compatible; YandexNews/4.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexNews/4.0; +http://yandex.com/bots)
+95.163.98.150||onlinetur-mobile
+141.8.132.34|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+95.163.98.150||onlinetur-mobile
+141.8.142.196|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+66.249.76.62||Googlebot-Image/1.0
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+82.209.212.222|Windows NT 6.1; Win64; x64|Chrome/63.0.3239.132 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+37.9.113.153|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+180.247.165.111|Windows NT 6.1; WOW64; rv:40.0|Gecko/20100101 Firefox/40.1
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+70.42.131.170|compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2|Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+37.9.113.153|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+95.163.98.150||onlinetur-mobile
+87.250.224.33|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+180.247.165.111|Windows NT 6.1; WOW64; rv:40.0|Gecko/20100101 Firefox/40.1
+91.45.251.100|Linux; Android 6.0; Lenovo K10a40 Build/MRA58K; wv|Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 GSA/7.18.50.21.arm
+70.42.131.170|compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2|Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
+66.249.76.157||Googlebot-Image/1.0
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+145.255.3.252|Windows NT 10.0; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.1.174 Yowser/2.5 Safari/537.36
+66.249.76.157|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+66.249.76.157||Googlebot-Image/1.0
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+37.9.113.153|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+95.163.98.150||onlinetur-mobile
+141.8.132.34|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+66.249.76.62||Googlebot-Image/1.0
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+46.39.249.199||-
+46.39.249.199||-
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+70.42.131.170|compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2|Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+70.42.131.170|compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2|Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+66.249.76.62||Googlebot-Image/1.0
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+54.36.149.47|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+87.250.224.33|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+95.163.98.150||onlinetur-mobile
+37.9.113.153|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+172.58.224.161|Windows NT 6.1; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+83.219.136.5|Windows NT 6.3; WOW64; Trident/7.0; rv:11.0|like Gecko
+66.249.76.157||Googlebot-Image/1.0
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+141.8.142.196|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+95.163.98.150||onlinetur-mobile
+37.9.113.153|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+66.249.76.63||Googlebot-Image/1.0
+54.36.148.240|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+66.249.76.63|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+83.219.136.5|Windows NT 6.3; WOW64; Trident/7.0; rv:11.0|like Gecko
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+141.8.142.196|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+95.163.98.150||onlinetur-mobile
+141.8.132.34|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+66.249.76.159||Googlebot-Image/1.0
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+163.172.66.24|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+141.8.183.19|iPhone; CPU iPhone OS 8_1 like Mac OS X|Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)
+54.36.148.230|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.63||Googlebot-Image/1.0
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+37.110.19.198|Windows NT 6.0|Chrome/49.0.2623.112 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+66.249.76.157||Googlebot-Image/1.0
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+83.219.136.5|Windows NT 6.3; WOW64; Trident/7.0; rv:11.0|like Gecko
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+213.87.146.226||-
+141.8.132.34|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.146.78.192|Windows NT 6.2; Win64; x64; rv:59.0|Gecko/20100101 Firefox/59.0
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+213.87.146.226||-
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.157||Googlebot-Image/1.0
+46.39.249.199|Windows NT 10.0; Win64; x64|Chrome/65.0.3325.181 Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+95.163.98.150||onlinetur-mobile
+66.249.65.125|Linux; Android 6.0.1; Nexus 5X Build/MMB29P|Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.157||Googlebot-Image/1.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.242.212|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 YaBrowser/18.3.1.731.10 Mobile/15D100 Safari/604.1
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+31.132.173.189||-
+31.132.173.189||-
+31.132.173.189||-
+31.132.173.189||-
+31.132.173.189||-
+66.249.76.63||Googlebot-Image/1.0
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+46.17.151.116|Linux; Android 7.0; SM-A320FL Build/NRD90M; wv|Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 GSA/7.23.26.21.arm
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+163.172.66.24||-
+163.172.66.24||-
+163.172.66.24||-
+46.4.89.220|Windows NT 6.3; WOW64|Chrome/41.0.2226.0 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.63||Googlebot-Image/1.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+46.229.168.66|compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html|Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.157||Googlebot-Image/1.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+66.249.76.159|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.63||Googlebot-Image/1.0
+207.46.13.67|compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm|Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+54.36.148.57|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+66.249.76.159||Googlebot-Image/1.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+66.249.65.125||Googlebot-Image/1.0
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+46.229.168.65|compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html|Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+213.87.146.226||-
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+213.87.146.226||-
+83.219.136.5||-
+213.87.146.226||-
+109.252.110.188|Macintosh; Intel Mac OS X 10_13_3|Chrome/65.0.3325.162 Safari/537.36
+66.249.76.128||Googlebot-Image/1.0
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+66.249.76.157|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.76.62||Googlebot-Image/1.0
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+5.191.22.32|iPhone; CPU iPhone OS 11_2_1 like Mac OS X|Version/11.0 Mobile/15C153 Safari/604.1
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+66.249.76.63||Googlebot-Image/1.0
+176.121.14.168|Windows NT 6.3; WOW64|Chrome/41.0.2226.0 Safari/537.36
+54.36.149.81|compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/|Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+109.252.11.130||-
+109.252.11.130||-
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+66.249.76.159||Googlebot-Image/1.0
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+83.219.136.5|Windows NT 6.3; WOW64; Trident/7.0; rv:11.0|like Gecko
+213.87.146.226|Linux; Android 4.4.2; ru-ru; SAMSUNG SM-T531 Build/KOT49H|Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+89.222.181.70|Windows NT 6.3; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+66.249.76.157||Googlebot-Image/1.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.157|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+178.154.148.28|compatible; YandexImageResizer/2.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexImageResizer/2.0; +http://yandex.com/bots)
+66.249.76.62||Googlebot-Image/1.0
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+40.77.167.73|compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm|Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+66.249.76.62||Googlebot-Image/1.0
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+84.201.158.133|compatible; YandexImageResizer/2.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexImageResizer/2.0; +http://yandex.com/bots)
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.157||Googlebot-Image/1.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.62||Googlebot-Image/1.0
+178.45.32.153|iPhone; CPU iPhone OS 11_2_6 like Mac OS X|Version/11.0 Mobile/15D100 Safari/604.1
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+85.140.113.80|Windows NT 10.0; WOW64|Chrome/63.0.3239.132 YaBrowser/18.2.1.174 Yowser/2.5 Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.157||Googlebot-Image/1.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+66.249.76.62|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+212.100.146.194|Linux; Android 7.0; MI 5s Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.157||Googlebot-Image/1.0
+141.226.174.87|Windows NT 10.0; Win64; x64; rv:59.0|Gecko/20100101 Firefox/59.0
+176.125.166.82|Windows NT 6.1; WOW64|Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+141.226.174.87|Windows NT 10.0; Win64; x64; rv:59.0|Gecko/20100101 Firefox/59.0
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+141.226.174.87|Windows NT 10.0; Win64; x64; rv:59.0|Gecko/20100101 Firefox/59.0
+141.226.174.87|Windows NT 10.0; Win64; x64; rv:59.0|Gecko/20100101 Firefox/59.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.62|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+176.121.14.163|X11; OpenBSD i386|Chrome/36.0.1985.125 Safari/537.36
+176.121.14.163|X11; OpenBSD i386|Chrome/36.0.1985.125 Safari/537.36
+95.163.98.150||onlinetur-mobile
+66.249.76.157|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.62||Googlebot-Image/1.0
+141.226.174.87|Windows NT 10.0; Win64; x64; rv:59.0|Gecko/20100101 Firefox/59.0
+141.226.174.87|Windows NT 10.0; Win64; x64; rv:59.0|Gecko/20100101 Firefox/59.0
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+90.155.131.93|iPad; CPU OS 9_3_5 like Mac OS X|Version/9.0 Mobile/13G36 Safari/601.1
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+66.249.76.62||Googlebot-Image/1.0
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+31.132.173.189|Linux; Android 7.0; SM-A510F Build/NRD90M|Chrome/65.0.3325.109 Mobile Safari/537.36
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+141.8.132.34|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.76.62||Googlebot-Image/1.0
+37.9.113.153|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+185.68.22.35|Linux; Android 5.1.1; PMT3331_3G Build/LRX21M|Chrome/65.0.3325.109 Safari/537.36
+109.252.11.130|Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D|Version/4.0 Safari/534.30
+217.10.38.130|Windows NT 6.1; WOW64; Trident/7.0; rv:11.0|like Gecko
+66.249.76.62|compatible; Googlebot/2.1; +http://www.google.com/bot.html|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+217.10.38.130|Windows NT 6.1; WOW64; Trident/7.0; rv:11.0|like Gecko
+141.8.142.196|compatible; YandexBot/3.0; +http://yandex.com/bots|Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+217.10.38.130|Windows NT 6.1; WOW64; Trident/7.0; rv:11.0|like Gecko
+217.10.38.130|Windows NT 6.1; WOW64; Trident/7.0; rv:11.0|like Gecko
+217.10.38.130|Windows NT 6.1; WOW64; Trident/7.0; rv:11.0|like Gecko
+217.10.38.130|Windows NT 6.1; WOW64; Trident/7.0; rv:11.0|like Gecko
+217.10.38.130|Windows NT 6.1; WOW64; Trident/7.0; rv:11.0|like Gecko
+217.10.38.130|Windows NT 6.1; WOW64; Trident/7.0; rv:11.0|like Gecko
+217.10.38.130|Windows NT 6.1; WOW64; Trident/7.0; rv:11.0|like Gecko
+217.10.38.130|Windows NT 6.1; WOW64; Trident/7.0; rv:11.0|like Gecko
